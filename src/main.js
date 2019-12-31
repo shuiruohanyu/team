@@ -8,7 +8,7 @@ import router from './router'
 import store from './store'
 import i18n from './lang' // Internationalization
 import './icons' // icon
-import './errorLog' // error log
+import    './errorLog' // error log
 import * as filters from './filters' // global filters
 import './mock' // simulation data
 // font-awesome
